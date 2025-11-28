@@ -25,9 +25,9 @@ tesis-app/ ├── backend/ ├── frontend/ ├── .gitignore └──
 
 3.3 Activar el entorno virtual 
 
-*** Copiar y pega en consola:**
+Copiar y pega en consola:
 
-*** venv`\Scripts`{=tex}`\activate`{=tex} ***
+venv`\Scripts`{=tex}`\activate`{=tex}
 
 O
 
