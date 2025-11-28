@@ -11,7 +11,11 @@ Abre la terminal (CMD, PowerShell o Git Bash) y ejecuta:
 
 Esto creará la siguiente estructura:
 
-tesis-app/ ├── backend/ ├── frontend/ ├── .gitignore └── README.md
+tesis-app/
+  ├── backend/
+  ├── frontend/
+  ├── .gitignore
+  └── README.md
 
 ## ✅ 2. Entrar al proyecto 
 
