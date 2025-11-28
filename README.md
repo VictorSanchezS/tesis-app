@@ -27,11 +27,11 @@ tesis-app/ ├── backend/ ├── frontend/ ├── .gitignore └──
 
 Copiar y pega en consola:
 
-venv`\Scripts`{=tex}`\activate`{=tex}
+`.\venv\Scripts\Activate.ps1`
 
 O
 
-`.\venv\Scripts\Activate.ps1`
+venv`\Scripts`{=tex}`\activate`{=tex}
 
 Si la terminal muestra (venv) significa que está activado.
 
