@@ -13,9 +13,13 @@ Esto creará la siguiente estructura:
 
 tesis-app/ ├── backend/ ├── frontend/ ├── .gitignore └── README.md
 
-## ✅ 2. Entrar al proyecto `cd tesis-app`
+## ✅ 2. Entrar al proyecto 
 
-## ✅ 3. Preparar el backend 3.1 Entrar a la carpeta del backend cd backend
+`cd tesis-app`
+
+## ✅ 3. Preparar el backend 
+
+3.1 Entrar a la carpeta del backend `cd backend`
 
 3.2 Crear el entorno virtual (Windows) `python -m venv venv`
 
