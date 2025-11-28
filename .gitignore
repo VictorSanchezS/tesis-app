@@ -1,0 +1,37 @@
+# ==== PYTHON ====
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# ==== ENV ====
+venv/
+.env
+
+# ==== FASTAPI / MODELS ====
+backend/*.keras
+backend/*.h5
+backend/*.pb
+backend/modelo_*.keras
+
+# ==== DATA ====
+*.csv
+*.xlsx
+*.xls
+*.json
+*.npy
+*.npz
+
+# ==== NODE / FRONTEND ====
+node_modules/
+dist/
+build/
+*.lock
+
+# ==== SYSTEM ====
+.DS_Store
+Thumbs.db
+
+# ==== VSCODE ====
+.vscode/
